@@ -2,11 +2,14 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item android:id="@+id/action_home"
-        android:title="Hello"
-        android:icon="@drawable/ic_dashboard_black_24dp" />
+        android:title="Home"
+        android:icon="@drawable/ic_home_black_24dp" />
 
     <item android:id="@+id/action_graph"
-        android:title="Hello2"
+        android:title="Graphs"
         android:icon="@drawable/ic_sentiment_very_dissatisfied_black_24dp" />
 
+    <item android:id="@+id/action_me"
+        android:title="Me"
+        android:icon="@drawable/ic_notifications_black_24dp" />
 </menu>
